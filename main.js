@@ -1,11 +1,11 @@
 let num1= 3;
-console.log(num1);
+console.log(`Il valore della variabile num1 è ${ num1 }`);
 let num2= 6;
-console.log(num2);
+console.log(`Il valore della variabile num1 è ${ num2 }`);
 let str1= "Sono una stringa";
-console.log(str1);
+console.log(`Il valore della variabile stringa è ${ str1 }`);
 const piGreco = 3.14;
-console.log(piGreco);
+console.log(`Il valore di PIGRECO è ${ piGreco }`);
 
 // Esercizio 2
 let firstNum= 3;
