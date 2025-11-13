@@ -35,3 +35,4 @@ let sottrazione=(val1 - val2);
 let moltip=(val1 * val2);
 let div=(val1 / val2);
 console.log(`Con i numeri da te scelti, i risultati delle varie operazioni sono: ${ somma }, ${ sottrazione }, ${ moltip }, ${ div }`);
+
